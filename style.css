@@ -3,6 +3,7 @@ body {
   line-height: 1.8;
   color: #f5f6f7;
 }
+
 p {
   font-size: 18px;
   margin-top: -45px;
@@ -81,6 +82,7 @@ p {
   padding: 0px;
   flex: 50%;
   text-align: left;
+  align-content: left;
 }
 
 /* Responsive layout - makes a one column-layout instead of a two-column layout */
